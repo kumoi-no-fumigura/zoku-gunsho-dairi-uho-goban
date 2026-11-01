@@ -565,6 +565,10 @@
    "dai": "勝"
   }
  ],
+ "translation": {
+  "count": 8,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-dairi-uho-goban",
   "work": "内裏歌合右方後番",
@@ -577,7 +581,7 @@
   "blocks": 8,
   "chars": 1795,
   "poems": 31,
-  "yaku": 0,
+  "yaku": 8,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T01:59:35+09:00"
